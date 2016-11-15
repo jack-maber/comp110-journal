@@ -33,3 +33,5 @@ Can be applied to a "complex family of shape models"
 "Objects are subject to changes in position and orientation", such as in video games
 
 A lot of maths I don't understand
+
+##Research Paper 4 - "Letters to the editor - Go To Statement Considered Harmful"
